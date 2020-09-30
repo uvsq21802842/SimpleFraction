@@ -5,7 +5,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("TRY : FRACTION");
 		Fraction f;
-		f = new Fraction(1,0);
+		f = new Fraction(1,1);
 		System.out.println(f.toString()); 
 		
 	}
